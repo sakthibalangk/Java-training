@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakthibalangk/Java-training/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sakthibalangk/Java-training/tree/master/0007-reverse-integer) |
 ## Two Pointers
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sakthibalangk/Java-training/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakthibalangk/Java-training/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakthibalangk/Java-training/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
