@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakthibalangk/Java-training/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sakthibalangk/Java-training/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sakthibalangk/Java-training/tree/master/0054-spiral-matrix) |
+| [0238-product-of-array-except-self](https://github.com/sakthibalangk/Java-training/tree/master/0238-product-of-array-except-self) |
 | [2058-concatenation-of-array](https://github.com/sakthibalangk/Java-training/tree/master/2058-concatenation-of-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakthibalangk/Java-training/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sakthibalangk/Java-training/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/sakthibalangk/Java-training/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sakthibalangk/Java-training/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
