@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sakthibalangk/Java-training/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sakthibalangk/Java-training/tree/master/0238-product-of-array-except-self) |
 | [2058-concatenation-of-array](https://github.com/sakthibalangk/Java-training/tree/master/2058-concatenation-of-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/sakthibalangk/Java-training/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakthibalangk/Java-training/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakthibalangk/Java-training/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/sakthibalangk/Java-training/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sakthibalangk/Java-training/tree/master/0242-valid-anagram) |
+| [2308-divide-array-into-equal-pairs](https://github.com/sakthibalangk/Java-training/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakthibalangk/Java-training/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sakthibalangk/Java-training/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/sakthibalangk/Java-training/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/sakthibalangk/Java-training/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
