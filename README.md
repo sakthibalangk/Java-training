@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakthibalangk/Java-training/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sakthibalangk/Java-training/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/sakthibalangk/Java-training/tree/master/2058-concatenation-of-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakthibalangk/Java-training/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sakthibalangk/Java-training/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/sakthibalangk/Java-training/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sakthibalangk/Java-training/tree/master/0242-valid-anagram) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakthibalangk/Java-training/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakthibalangk/Java-training/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/sakthibalangk/Java-training/tree/master/0202-happy-number) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakthibalangk/Java-training/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
 |  |
 | ------- |
