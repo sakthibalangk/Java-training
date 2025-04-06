@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/sakthibalangk/Java-training/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sakthibalangk/Java-training/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sakthibalangk/Java-training/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2737-row-with-maximum-ones](https://github.com/sakthibalangk/Java-training/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sakthibalangk/Java-training/tree/master/0054-spiral-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/sakthibalangk/Java-training/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
