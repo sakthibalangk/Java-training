@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakthibalangk/Java-training/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sakthibalangk/Java-training/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sakthibalangk/Java-training/tree/master/0054-spiral-matrix) |
+| [0119-pascals-triangle-ii](https://github.com/sakthibalangk/Java-training/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/sakthibalangk/Java-training/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sakthibalangk/Java-training/tree/master/0238-product-of-array-except-self) |
 | [2058-concatenation-of-array](https://github.com/sakthibalangk/Java-training/tree/master/2058-concatenation-of-array) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sakthibalangk/Java-training/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/sakthibalangk/Java-training/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
